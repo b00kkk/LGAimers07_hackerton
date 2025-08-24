@@ -14,7 +14,9 @@
   - 리조트 식음업장에서 수집된 과거 메뉴별 판매 데이터를 기반으로, 향후 1주일간 각 메뉴의 예상 판매량을 예측하는 AI 모델을 개발하는 프로젝트입니다.
 
 - 평가산식
-  - 식음업장 별 가중치가 있는 SMAPE 
+  - 식음업장 별 가중치가 있는 SMAPE
+  - <img width="1425" height="607" alt="image" src="https://github.com/user-attachments/assets/456aab54-3c7e-4583-97fe-7beea79f627d" />
+
 
 ## 👥 팀원
 
