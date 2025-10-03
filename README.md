@@ -1,6 +1,9 @@
-# 📌 LGAimers 7기 해커톤
+<img width="1545" height="1198" alt="image" src="https://github.com/user-attachments/assets/3f31e9a2-fbef-4b33-9440-a99041411c9f" /># 📌 LGAimers 7기 해커톤
 
 👉 [대회 사이트 바로가기](https://dacon.io/competitions/official/236559/overview/description)
+
+<img width="1545" height="1198" alt="image" src="https://github.com/user-attachments/assets/66e59e2a-9613-4677-a2c9-39779b55f110" />
+
 
 <img width="1788" height="729" alt="image" src="https://github.com/user-attachments/assets/cdd864e7-33d3-497b-b75c-4663bfcf5b81" />
 
